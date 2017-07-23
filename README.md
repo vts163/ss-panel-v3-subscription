@@ -46,7 +46,8 @@
 
 注：`"\r\n"`是为ssr://链接换行,只需在倒数第二个服务器变量名后添加，如果这一步配置错误，会导致无法生成链接表现为空白页，或500、503错误
 
-7.配置完成，访问api.php，假如 ss panel v3 前端地址为`ssr.domain.com`，我们访问`ssr.domain.com/api.php?user=用户名&passwd=密码`即可
+7.配置完成，访问api.php，假如 ss panel v3 前端地址为`ssr.domain.com`，我们访问订阅地址
+`ssr.domain.com/api.php?user=用户名&passwd=密码`
 当以上配置正确时，您可看到一串长链接，当账号密码错误时，您可看到错误提示：登录失败，用户名或密码不正确。
 
 Windows平台订阅

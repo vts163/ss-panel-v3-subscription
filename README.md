@@ -11,7 +11,7 @@
 
 首先，您需将api.php通过git，xftp5或其他途径，放置在ss panel v3 的 /home/wwwroot/default/public 目录下
 
-1.填写 ss panel v3 登录地址
+1.填写 ss panel v3 登录地址，例：https://ssr.domain.com/auth/login
 
     $ss_panel_login_address = "";
 

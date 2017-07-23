@@ -1,1 +1,3 @@
-# ss-panel-v3-subscription
+说明
+-
+为每一位ss-panel-v3用户提供一个专属订阅地址
